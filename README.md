@@ -1,6 +1,9 @@
 # vuefire
 
-> A Simple Vue with firebase database
+> A Simple Vue CRUD with firebase database
+
+## example
+this example that have been finished to deploy
 
 ## Build Setup
 
@@ -13,6 +16,12 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+#making a project in firebase
+
+#adjust the firebase project with firebase js in ./src
 ```
+
+
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
