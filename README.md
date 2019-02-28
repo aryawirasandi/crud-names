@@ -3,7 +3,9 @@
 > A Simple Vue CRUD with firebase database
 
 ## example
-this example that have been finished to deploy
+this example that have been finished to deploy 
+
+https://vfire-9f324.firebaseapp.com/
 
 ## Build Setup
 
